@@ -13,7 +13,7 @@
 
 ## Stats
 
-[![Nithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithunikzz)](https://github.com/Nithunikzz/Readme/edit/main/README.md)
+[![Nithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithunikzz&show_icons=true&theme=tokyonight)](https://github.com/Nithunikzz/Readme/edit/main/README.md)
 
 ## Language 
 
