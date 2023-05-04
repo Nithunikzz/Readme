@@ -17,7 +17,7 @@
 
 ## Language 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithunikzz)](https://github.com/Nithunikzz/Readme/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithunikzz&show_icons=true&theme=radical)](https://github.com/Nithunikzz/Readme/edit/main/README.md)
 
 
 
