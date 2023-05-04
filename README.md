@@ -16,10 +16,10 @@ A self taught Go developer, passionate about programming also fast learner with 
     <h2 align="center">😎 You can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/an1l4/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/nithu-l-61260421a/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="ijasmoopan" height="30"/></a>
-      <a href="https://mailto:1995anila@gmail.com" target="blank"><img align="center"
+      <a href="https://nithunithin2000@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="ijasmoopan" height="30"/></a>
     </p>
